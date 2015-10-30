@@ -27,5 +27,10 @@ namespace Bonsaii.Controllers
         {
             return View();
         }
+
+        public ActionResult Panda()
+        {
+            return View();
+        }
     }
 }
